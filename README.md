@@ -17,3 +17,10 @@ If you want to run your own instance of this app locally:
 - ensure that MongoDB is running;
 - run `npm start`;
 - navigate to localhost:3000 in a web browser.
+
+## Deployed
+
+You can view the deployed app here: https://blooming-hollows-25925.herokuapp.com/
+
+## Screenshot
+![a screenshot of a budget tracker](https://user-images.githubusercontent.com/48567955/120940081-37681f80-c6d0-11eb-977d-2c9bfd480495.png)
